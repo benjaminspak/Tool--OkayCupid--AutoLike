@@ -3,7 +3,7 @@
 
 ## Current Filters
 
-Filter by:
+Filter by: <br>
 - Gender identity (Exclude)
     Traditional
     - Men
@@ -11,7 +11,7 @@ Filter by:
     - Cis Men
     - Cis Women
 
-    Fluid Gender Identity
+    Fluid Gender Identity<br>
     - Androgynes
     - Bigenders
     - Genderfluids
@@ -22,13 +22,13 @@ Filter by:
     - Pangenders
     - Two Spirits
 
-    Both Sex Organs
+    Both Sex Organs<br>
     - Intersexes
 
     No Sex
     - Agenders
     
-    Opposite Gender Identity
+    Opposite Gender Identity<br>
     - Hijras
     - Transfeminines
     - Transgenders
