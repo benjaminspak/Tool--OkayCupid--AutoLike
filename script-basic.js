@@ -1,4 +1,5 @@
-// Run on https://www.okcupid.com/doubletake
+// Load page https://www.okcupid.com/doubletake
+// Post script in console (F12) and press enter.
 
 var intervalID = setInterval(clickLike, 2000);
 
